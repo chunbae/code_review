@@ -1,4 +1,4 @@
-#ifdef PRIORITY_QUEUE_H_
+#ifndef PRIORITY_QUEUE_H_
 #define PRIORITY_QUEUE_H_
 
 #include <queue>
