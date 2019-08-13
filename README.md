@@ -1,5 +1,14 @@
-# code_review
-code review practice
+# Project 1
+---
+## Files
+- `priority_queue.cc`, `priority_queue.h` : Class templatePriorityQueue source code
+- `main.cc` : Usage for templatePriorityQueue class
+- `priority_queue_test.cc` : Unittest code for templatePriorityQueue class using GTest library
 
-# goal
-practice code review with sample codes
+## Install
+
+```
+# cmake CMakeLists.txt
+# make
+# ./main
+```
